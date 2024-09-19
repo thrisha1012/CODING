@@ -2,8 +2,7 @@ class Solution {
     public boolean backspaceCompare(String s, String t) {
         Stack <Character> stack1=new Stack();
         for(int i=0;i<s.length();i++){
-            char ch=s.charAt(i);
-           if(ch=='#') {
+           if(s.charAt(i)=='#') {
                 if(!stack1.isEmpty()){
                     stack1.pop();
                 }
