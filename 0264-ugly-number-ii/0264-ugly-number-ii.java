@@ -3,7 +3,7 @@ class Solution {
         List<Integer>list=new ArrayList<>();
         list.add(1);
         int i2=0,i3=0,i5=0;
-        while(list.size()<n){
+        for(int i=0;i<n;i++){
             int next2=list.get(i2)*2;
             int next3=list.get(i3)*3;
             int next5=list.get(i5)*5;
