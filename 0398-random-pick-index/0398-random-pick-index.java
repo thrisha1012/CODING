@@ -1,26 +1,18 @@
 class Solution {
-    private int nums[];
-    private Random random=new Random();
-
+    private int[]nums;
+    private Random rand=new Random();
     public Solution(int[] nums) {
         this.nums=nums;
     }
     
     public int pick(int target) {
-        int count=0;
-        int res=0;
+        ArrayList<Integer>list=new ArrayList<>();
         for(int i=0;i<nums.length;i++){
             if(nums[i]==target){
-                count++;
-            
-            int randindex=1+random.nextInt(count);
-            if(randindex==count){
-                res=i;
+                list.add(i);
             }
-            }
-            
         }
-        return res;
+            return list.get(rand.nextInt(list.size()));
         
     }
 }
