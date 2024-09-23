@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/thrisha1012/CODING/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/thrisha1012/CODING/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/thrisha1012/CODING/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 ## Memoization
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0214-shortest-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/thrisha1012/CODING/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
