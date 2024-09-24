@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thrisha1012/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thrisha1012/CODING/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/thrisha1012/CODING/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/thrisha1012/CODING/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
