@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/thrisha1012/CODING/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/thrisha1012/CODING/tree/master/0398-random-pick-index) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/thrisha1012/CODING/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/thrisha1012/CODING/tree/master/0464-can-i-win) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
+| [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
