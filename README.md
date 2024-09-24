@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/thrisha1012/CODING/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/thrisha1012/CODING/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/thrisha1012/CODING/tree/master/0398-random-pick-index) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/thrisha1012/CODING/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/thrisha1012/CODING/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
