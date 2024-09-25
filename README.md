@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/thrisha1012/CODING/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/thrisha1012/CODING/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
 | ------- |
