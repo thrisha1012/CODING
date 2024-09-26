@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/thrisha1012/CODING/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/thrisha1012/CODING/tree/master/0179-largest-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thrisha1012/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thrisha1012/CODING/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
