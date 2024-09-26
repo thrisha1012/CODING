@@ -1,14 +1,13 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int count[]=new int[26];
+        int c=0;
         for(int i=0;i<s.length();i++){
-            ++count[s.charAt(i)-'a'];
+           c=c^s.charAt(i);
         }
         for(int i=0;i<t.length();i++){
-            if(--count[t.charAt(i)-'a']<0){
-                return t.charAt(i);
-            }
+            c=c^t.charAt(i);
         }
-        return ' ';
+        return (char)c;
+        
     }
 }
