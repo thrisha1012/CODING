@@ -1,7 +1,6 @@
 class Solution {
     public int thirdMax(int[] nums) {
         long max1=Long.MIN_VALUE,max2=Long.MIN_VALUE,max3=Long.MIN_VALUE;
-       // Integer max1=null,max2=null,max3=null;
         for(int i=0;i<nums.length;i++){
             if(nums[i]>max1){
                 max3=max2;
