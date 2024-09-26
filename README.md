@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thrisha1012/CODING/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thrisha1012/CODING/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/thrisha1012/CODING/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/thrisha1012/CODING/tree/master/0398-random-pick-index) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thrisha1012/CODING/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/thrisha1012/CODING/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/thrisha1012/CODING/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 ## Two Pointers
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/thrisha1012/CODING/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/thrisha1012/CODING/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/thrisha1012/CODING/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
