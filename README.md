@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/thrisha1012/CODING/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/thrisha1012/CODING/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0409-longest-palindrome) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Design
 |  |
 | ------- |
@@ -276,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
