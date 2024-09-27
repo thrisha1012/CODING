@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/thrisha1012/CODING/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
+| [0696-count-binary-substrings](https://github.com/thrisha1012/CODING/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/thrisha1012/CODING/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/thrisha1012/CODING/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/thrisha1012/CODING/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/thrisha1012/CODING/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
