@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/thrisha1012/CODING/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/thrisha1012/CODING/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/thrisha1012/CODING/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/thrisha1012/CODING/tree/master/0908-middle-of-the-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
