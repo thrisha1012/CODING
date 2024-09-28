@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/thrisha1012/CODING/tree/master/0941-sort-array-by-parity) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thrisha1012/CODING/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/thrisha1012/CODING/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/thrisha1012/CODING/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/thrisha1012/CODING/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
