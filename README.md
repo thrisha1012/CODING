@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thrisha1012/CODING/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thrisha1012/CODING/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thrisha1012/CODING/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/thrisha1012/CODING/tree/master/0414-third-maximum-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/thrisha1012/CODING/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/thrisha1012/CODING/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/thrisha1012/CODING/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/thrisha1012/CODING/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/thrisha1012/CODING/tree/master/0464-can-i-win) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/thrisha1012/CODING/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thrisha1012/CODING/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/thrisha1012/CODING/tree/master/0392-is-subsequence) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thrisha1012/CODING/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
