@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/thrisha1012/CODING/tree/master/0941-sort-array-by-parity) |
+| [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/thrisha1012/CODING/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/thrisha1012/CODING/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thrisha1012/CODING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/thrisha1012/CODING/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/thrisha1012/CODING/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/thrisha1012/CODING/tree/master/0941-sort-array-by-parity) |
+| [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
