@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/thrisha1012/CODING/tree/master/1923-sentence-similarity-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/thrisha1012/CODING/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/thrisha1012/CODING/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/thrisha1012/CODING/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thrisha1012/CODING/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/thrisha1012/CODING/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
