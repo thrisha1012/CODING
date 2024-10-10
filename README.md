@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/thrisha1012/CODING/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/thrisha1012/CODING/tree/master/0058-length-of-last-word) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/thrisha1012/CODING/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/thrisha1012/CODING/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
