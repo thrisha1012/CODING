@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/thrisha1012/CODING/tree/master/1923-sentence-similarity-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thrisha1012/CODING/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/thrisha1012/CODING/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/thrisha1012/CODING/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/thrisha1012/CODING/tree/master/0941-sort-array-by-parity) |
 | [1923-sentence-similarity-iii](https://github.com/thrisha1012/CODING/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/thrisha1012/CODING/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thrisha1012/CODING/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0409-longest-palindrome) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/thrisha1012/CODING/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Design
 |  |
 | ------- |
