@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/thrisha1012/CODING/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/thrisha1012/CODING/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1923-sentence-similarity-iii](https://github.com/thrisha1012/CODING/tree/master/1923-sentence-similarity-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/thrisha1012/CODING/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/thrisha1012/CODING/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/thrisha1012/CODING/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thrisha1012/CODING/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/thrisha1012/CODING/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/thrisha1012/CODING/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/thrisha1012/CODING/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/thrisha1012/CODING/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/thrisha1012/CODING/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
