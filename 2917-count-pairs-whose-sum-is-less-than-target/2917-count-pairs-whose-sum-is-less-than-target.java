@@ -12,6 +12,5 @@ class Solution {
             else right--;
         }
         return c;
-        
     }
 }
