@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/thrisha1012/CODING/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thrisha1012/CODING/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/thrisha1012/CODING/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/thrisha1012/CODING/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/thrisha1012/CODING/tree/master/0464-can-i-win) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thrisha1012/CODING/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
