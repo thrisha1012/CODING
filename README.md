@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/thrisha1012/CODING/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/thrisha1012/CODING/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/thrisha1012/CODING/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/thrisha1012/CODING/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/thrisha1012/CODING/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/thrisha1012/CODING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/thrisha1012/CODING/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/thrisha1012/CODING/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/thrisha1012/CODING/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
