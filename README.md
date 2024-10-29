@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/thrisha1012/CODING/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/thrisha1012/CODING/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/thrisha1012/CODING/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/thrisha1012/CODING/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thrisha1012/CODING/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thrisha1012/CODING/tree/master/0070-climbing-stairs) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/thrisha1012/CODING/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/thrisha1012/CODING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/thrisha1012/CODING/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/thrisha1012/CODING/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/thrisha1012/CODING/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/thrisha1012/CODING/tree/master/2677-cousins-in-binary-tree-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/thrisha1012/CODING/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
