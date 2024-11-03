@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/thrisha1012/CODING/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/thrisha1012/CODING/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/thrisha1012/CODING/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [1197-parsing-a-boolean-expression](https://github.com/thrisha1012/CODING/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/thrisha1012/CODING/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/thrisha1012/CODING/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
