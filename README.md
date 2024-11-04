@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/thrisha1012/CODING/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thrisha1012/CODING/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thrisha1012/CODING/tree/master/0344-reverse-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/thrisha1012/CODING/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thrisha1012/CODING/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
 | [1002-maximum-width-ramp](https://github.com/thrisha1012/CODING/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/thrisha1012/CODING/tree/master/1197-parsing-a-boolean-expression) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/thrisha1012/CODING/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/thrisha1012/CODING/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/thrisha1012/CODING/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/thrisha1012/CODING/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/thrisha1012/CODING/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/thrisha1012/CODING/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/thrisha1012/CODING/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thrisha1012/CODING/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/thrisha1012/CODING/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/thrisha1012/CODING/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/thrisha1012/CODING/tree/master/0908-middle-of-the-linked-list) |
