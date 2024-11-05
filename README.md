@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/thrisha1012/CODING/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/thrisha1012/CODING/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thrisha1012/CODING/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/thrisha1012/CODING/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thrisha1012/CODING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/thrisha1012/CODING/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/thrisha1012/CODING/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
