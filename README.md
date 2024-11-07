@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/thrisha1012/CODING/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thrisha1012/CODING/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
 | [0506-relative-ranks](https://github.com/thrisha1012/CODING/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/thrisha1012/CODING/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -496,10 +499,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
