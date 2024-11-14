@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/thrisha1012/CODING/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/thrisha1012/CODING/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/thrisha1012/CODING/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/thrisha1012/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/thrisha1012/CODING/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thrisha1012/CODING/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/thrisha1012/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/thrisha1012/CODING/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/thrisha1012/CODING/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/thrisha1012/CODING/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/thrisha1012/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
