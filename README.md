@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/thrisha1012/CODING/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/thrisha1012/CODING/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thrisha1012/CODING/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thrisha1012/CODING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/thrisha1012/CODING/tree/master/0283-move-zeroes) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/thrisha1012/CODING/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/thrisha1012/CODING/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/thrisha1012/CODING/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/thrisha1012/CODING/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
