@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thrisha1012/CODING/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/thrisha1012/CODING/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/thrisha1012/CODING/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/thrisha1012/CODING/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/thrisha1012/CODING/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/thrisha1012/CODING/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/thrisha1012/CODING/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/thrisha1012/CODING/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/thrisha1012/CODING/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/thrisha1012/CODING/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0214-shortest-palindrome) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/thrisha1012/CODING/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
