@@ -22,8 +22,6 @@ class Solution {
             curr = curr.next;
         }
 
-        // now here we are at the first node that bigger than x
-        // after them we should remove them add them next to it
         if(curr == null){
             return head;
         }
