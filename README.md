@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/thrisha1012/CODING/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thrisha1012/CODING/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thrisha1012/CODING/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/thrisha1012/CODING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/thrisha1012/CODING/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thrisha1012/CODING/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/thrisha1012/CODING/tree/master/0179-largest-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/thrisha1012/CODING/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/thrisha1012/CODING/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/thrisha1012/CODING/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thrisha1012/CODING/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/thrisha1012/CODING/tree/master/0874-backspace-string-compare) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thrisha1012/CODING/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/thrisha1012/CODING/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/thrisha1012/CODING/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/thrisha1012/CODING/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Simulation
