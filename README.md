@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/thrisha1012/CODING/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/thrisha1012/CODING/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/thrisha1012/CODING/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/thrisha1012/CODING/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/thrisha1012/CODING/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/thrisha1012/CODING/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/thrisha1012/CODING/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/thrisha1012/CODING/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/thrisha1012/CODING/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/thrisha1012/CODING/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thrisha1012/CODING/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/thrisha1012/CODING/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/thrisha1012/CODING/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/thrisha1012/CODING/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/thrisha1012/CODING/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/thrisha1012/CODING/tree/master/0089-gray-code) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thrisha1012/CODING/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thrisha1012/CODING/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
