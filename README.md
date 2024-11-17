@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/thrisha1012/CODING/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/thrisha1012/CODING/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/thrisha1012/CODING/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/thrisha1012/CODING/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/thrisha1012/CODING/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/thrisha1012/CODING/tree/master/1940-maximum-xor-for-each-query) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/thrisha1012/CODING/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thrisha1012/CODING/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/thrisha1012/CODING/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/thrisha1012/CODING/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/thrisha1012/CODING/tree/master/0219-contains-duplicate-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/thrisha1012/CODING/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/thrisha1012/CODING/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/thrisha1012/CODING/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -525,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/thrisha1012/CODING/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -579,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thrisha1012/CODING/tree/master/0803-cheapest-flights-within-k-stops) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/thrisha1012/CODING/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
