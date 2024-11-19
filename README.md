@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/thrisha1012/CODING/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/thrisha1012/CODING/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thrisha1012/CODING/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/thrisha1012/CODING/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/thrisha1012/CODING/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/thrisha1012/CODING/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/thrisha1012/CODING/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thrisha1012/CODING/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/thrisha1012/CODING/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/thrisha1012/CODING/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/thrisha1012/CODING/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/thrisha1012/CODING/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/thrisha1012/CODING/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thrisha1012/CODING/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/thrisha1012/CODING/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/thrisha1012/CODING/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
