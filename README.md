@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/thrisha1012/CODING/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thrisha1012/CODING/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/thrisha1012/CODING/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thrisha1012/CODING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/thrisha1012/CODING/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/thrisha1012/CODING/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/thrisha1012/CODING/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/thrisha1012/CODING/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/thrisha1012/CODING/tree/master/0085-maximal-rectangle) |
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/thrisha1012/CODING/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/thrisha1012/CODING/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/thrisha1012/CODING/tree/master/2132-convert-1d-array-into-2d-array) |
