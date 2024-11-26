@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thrisha1012/CODING/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/thrisha1012/CODING/tree/master/1039-find-the-town-judge) |
+| [3189-find-champion-ii](https://github.com/thrisha1012/CODING/tree/master/3189-find-champion-ii) |
 ## Union Find
 |  |
 | ------- |
