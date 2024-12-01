@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/thrisha1012/CODING/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thrisha1012/CODING/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thrisha1012/CODING/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thrisha1012/CODING/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/thrisha1012/CODING/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
