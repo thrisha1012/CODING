@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/thrisha1012/CODING/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2201-valid-arrangement-of-pairs](https://github.com/thrisha1012/CODING/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/thrisha1012/CODING/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/thrisha1012/CODING/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/thrisha1012/CODING/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/thrisha1012/CODING/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/thrisha1012/CODING/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/thrisha1012/CODING/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/thrisha1012/CODING/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/thrisha1012/CODING/tree/master/2677-cousins-in-binary-tree-ii) |
