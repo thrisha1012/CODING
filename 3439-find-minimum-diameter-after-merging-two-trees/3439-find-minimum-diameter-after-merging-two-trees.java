@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     private void build(List<List<Integer>> adj, int[][] edges) {
         for (int[] edge : edges) {
