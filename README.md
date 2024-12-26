@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/thrisha1012/CODING/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thrisha1012/CODING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/thrisha1012/CODING/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/thrisha1012/CODING/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/thrisha1012/CODING/tree/master/0729-my-calendar-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/thrisha1012/CODING/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/thrisha1012/CODING/tree/master/0464-can-i-win) |
+| [0494-target-sum](https://github.com/thrisha1012/CODING/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thrisha1012/CODING/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/thrisha1012/CODING/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/thrisha1012/CODING/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/thrisha1012/CODING/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/thrisha1012/CODING/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/thrisha1012/CODING/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/thrisha1012/CODING/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/thrisha1012/CODING/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/thrisha1012/CODING/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
