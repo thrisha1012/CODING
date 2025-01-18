@@ -6,7 +6,7 @@ class Solution {
     Arrays.stream(mem).forEach(A -> Arrays.fill(A, -1));
     Queue<Pair<Integer, Integer>> q = new ArrayDeque<>();
 
-    dfs(grid, 0, 0, /*cost=*/0, q, mem);
+    dfs(grid, 0, 0, 0, q, mem);
 
     for (int cost = 1; !q.isEmpty(); ++cost)
       for (int sz = q.size(); sz > 0; --sz) {
