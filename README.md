@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/thrisha1012/CODING/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/thrisha1012/CODING/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thrisha1012/CODING/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/thrisha1012/CODING/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/thrisha1012/CODING/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thrisha1012/CODING/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/thrisha1012/CODING/tree/master/0494-target-sum) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/thrisha1012/CODING/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/thrisha1012/CODING/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/thrisha1012/CODING/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thrisha1012/CODING/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/thrisha1012/CODING/tree/master/0279-perfect-squares) |
+| [0407-trapping-rain-water-ii](https://github.com/thrisha1012/CODING/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thrisha1012/CODING/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/thrisha1012/CODING/tree/master/0744-network-delay-time) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thrisha1012/CODING/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/thrisha1012/CODING/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/thrisha1012/CODING/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/thrisha1012/CODING/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/thrisha1012/CODING/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/thrisha1012/CODING/tree/master/1073-number-of-enclaves) |
