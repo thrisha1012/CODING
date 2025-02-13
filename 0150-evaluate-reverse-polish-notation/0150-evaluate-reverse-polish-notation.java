@@ -1,41 +1,26 @@
 class Solution {
-    public int evalRPN(String[] tokens) {
-        Stack<Integer>stack=new Stack<>();
-        for(String ch:tokens)
-        {
-                switch(ch)
-                {
-                    case "+":{
-                        stack.push(stack.pop()+stack.pop());
-                        break;
-                    }
-                    case "-": {
-                        int n1=stack.pop();
-                        int n2=stack.pop();
-                        stack.push(n2-n1);
-                        break;
-                    }
-                    case "*": {
-                        stack.push(stack.pop()*stack.pop());
-                        break;
-                    }
-                    case "/": {
-                        int n1=stack.pop();
-                        int n2=stack.pop();
-                         stack.push(n2/n1);
-                        
-                        break;
-                    }
-                    default:{
-                        stack.push(Integer.parseInt(ch));
-                        break;
-                    }
-                    
-                
+    static boolean isop(String ch){
+        return ch.equals("+") || ch.equals("-") || ch.equals("*") || ch.equals("/");
+    }
+    public int evalRPN(String[] arr) {
+        Stack<Integer> st=new Stack<>();
+        for(int i=0;i<arr.length;i++){
+            if(arr[i].matches("-?\\d+")){
+                st.push(Integer.parseInt(arr[i]));
             }
-            
+            else if(isop(arr[i])){
+                int n2=st.pop();
+                int n1=st.pop();
+
+                switch(arr[i]){
+                    case "+": st.push(n1+n2); break;
+                    case "-": st.push(n1-n2); break;
+                    case "*": st.push(n1*n2); break;
+                    case "/": st.push(n1/n2); break;
+                }
+            }
         }
-        return stack.pop();
+        return st.pop();
         
     }
 }
