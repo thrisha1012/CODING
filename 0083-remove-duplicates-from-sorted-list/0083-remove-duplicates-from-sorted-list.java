@@ -17,6 +17,8 @@ class Solution {
             }
             temp=temp.next;
         }
+        
         return head;
+        
     }
 }
