@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/thrisha1012/CODING/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thrisha1012/CODING/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/thrisha1012/CODING/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/thrisha1012/CODING/tree/master/0234-palindrome-linked-list) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/thrisha1012/CODING/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thrisha1012/CODING/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/thrisha1012/CODING/tree/master/0547-number-of-provinces) |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/thrisha1012/CODING/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thrisha1012/CODING/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/thrisha1012/CODING/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/thrisha1012/CODING/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/thrisha1012/CODING/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thrisha1012/CODING/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/thrisha1012/CODING/tree/master/0988-flip-equivalent-binary-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/thrisha1012/CODING/tree/master/2493-reverse-odd-levels-of-binary-tree) |
