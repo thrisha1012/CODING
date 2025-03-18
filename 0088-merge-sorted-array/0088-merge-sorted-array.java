@@ -13,14 +13,9 @@ class Solution {
         for(int i=0;i<list.size();i++){
             nums1[i]=list.get(i);
         }
-        System.out.print("[");
-        for (int i = 0; i < list.size(); i++) {
-            System.out.print(nums1[i]);
-            if (i < list.size() - 1) {
-                System.out.print(",");
-            }
-        }
-        System.out.print("]");
+        
+        for(int i=0;i<list.size();i++)
+        System.out.print(nums1[i]);
         
     }
 }
