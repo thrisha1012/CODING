@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thrisha1012/CODING/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/thrisha1012/CODING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thrisha1012/CODING/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/thrisha1012/CODING/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thrisha1012/CODING/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thrisha1012/CODING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thrisha1012/CODING/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/thrisha1012/CODING/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/thrisha1012/CODING/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thrisha1012/CODING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/thrisha1012/CODING/tree/master/0053-maximum-subarray) |
 | [1873-longest-nice-substring](https://github.com/thrisha1012/CODING/tree/master/1873-longest-nice-substring) |
 ## Counting
