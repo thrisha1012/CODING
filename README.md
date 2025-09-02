@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/thrisha1012/CODING/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/thrisha1012/CODING/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/thrisha1012/CODING/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/thrisha1012/CODING/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/thrisha1012/CODING/tree/master/0539-minimum-time-difference) |
 | [0696-count-binary-substrings](https://github.com/thrisha1012/CODING/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/thrisha1012/CODING/tree/master/0812-rotate-string) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/thrisha1012/CODING/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/thrisha1012/CODING/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/thrisha1012/CODING/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/thrisha1012/CODING/tree/master/0516-longest-palindromic-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/thrisha1012/CODING/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/thrisha1012/CODING/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/thrisha1012/CODING/tree/master/1025-minimum-cost-for-tickets) |
